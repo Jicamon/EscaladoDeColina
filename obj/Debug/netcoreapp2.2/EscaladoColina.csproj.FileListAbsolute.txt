@@ -1,0 +1,11 @@
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\bin\Debug\netcoreapp2.2\EscaladoColina.deps.json
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\bin\Debug\netcoreapp2.2\EscaladoColina.runtimeconfig.json
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\bin\Debug\netcoreapp2.2\EscaladoColina.runtimeconfig.dev.json
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\bin\Debug\netcoreapp2.2\EscaladoColina.dll
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\bin\Debug\netcoreapp2.2\EscaladoColina.pdb
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\obj\Debug\netcoreapp2.2\EscaladoColina.csprojAssemblyReference.cache
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\obj\Debug\netcoreapp2.2\EscaladoColina.csproj.CoreCompileInputs.cache
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\obj\Debug\netcoreapp2.2\EscaladoColina.AssemblyInfoInputs.cache
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\obj\Debug\netcoreapp2.2\EscaladoColina.AssemblyInfo.cs
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\obj\Debug\netcoreapp2.2\EscaladoColina.dll
+C:\Users\chuy_\Desktop\IA Nora\EscaladoColina\obj\Debug\netcoreapp2.2\EscaladoColina.pdb
